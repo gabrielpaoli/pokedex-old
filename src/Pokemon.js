@@ -178,7 +178,7 @@ class Pokemon extends Component{
 				<div className="row">
 					<div className="col m5">
 						<div className="container-pokemon-image">
-							<img className="image-100-responsive pokemon-image" alt={varieteImageInn} src={`../images/pokeimages/${varieteImageInn}.png`} />
+							<img className="image-100-responsive pokemon-image" alt={varieteImageInn} src={`https://assets.pokemon.com/assets/cms2/img/pokedex/full/${varieteImageInn}.png`} />
 						</div>
 
 						<div className="col m12">
